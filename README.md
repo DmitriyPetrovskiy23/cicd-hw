@@ -24,94 +24,44 @@
 
 ### Задание 1
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
-
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.1.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.2.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.3.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.4.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.5.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.6.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.7.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.8.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.9.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.10.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.11.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/1.12.png)
 
 ---
 
 ### Задание 2
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/2.1.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/2.2.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/2.3.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/2.4.png)
 
 
 ---
 
 ### Задание 3
 
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
-
-### Задание 4
-
-`Приведите ответ в свободной форме........`
-
-1. `Заполните здесь этапы выполнения, если требуется ....`
-2. `Заполните здесь этапы выполнения, если требуется ....`
-3. `Заполните здесь этапы выполнения, если требуется ....`
-4. `Заполните здесь этапы выполнения, если требуется ....`
-5. `Заполните здесь этапы выполнения, если требуется ....`
-6. 
-
-```
-Поле для вставки кода...
-....
-....
-....
-....
-```
-
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота](ссылка на скриншот)`
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.1.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.2.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.3.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.4.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.5.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.6.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.7.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.8.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.9.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.10.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.11.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.12.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.13.png)
+![alt text](https://github.com/DmitriyPetrovskiy23/cicd-hw/blob/main/img/3.14.png)
